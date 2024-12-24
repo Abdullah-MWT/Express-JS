@@ -1,0 +1,18 @@
+{
+  "name": "spotify_clone",
+  "version": "1.0.0",
+  "description": "THis is my spotify clone made with express.js",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Abdullah Developer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "slugify": "^1.6.6"
+  }
+}
