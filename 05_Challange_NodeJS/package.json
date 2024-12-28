@@ -1,7 +1,6 @@
 {
   "name": "05_challange_nodejs",
   "version": "1.0.0",
-  "description": "",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -9,5 +8,6 @@
   },
   "keywords": [],
   "author": "Abdullah Developer",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
